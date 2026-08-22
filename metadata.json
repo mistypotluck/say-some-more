@@ -1,0 +1,7 @@
+{
+  "name": "Say Some More",
+  "description": "A consent-based attention translator for elderly parents and busy adult children with 20-second Mum Got Story capsules.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
